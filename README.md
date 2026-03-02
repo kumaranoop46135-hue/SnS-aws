@@ -67,3 +67,47 @@ Login to your AWS account and open the SNS service.
 
 
 
+---
+
+### Step 3 – Create Subscription
+1. Open created Topic  
+2. Click **Create Subscription**
+3. Select Protocol:
+   - Email
+   - SMS
+   - http
+   - many more
+    
+4. Enter Endpoint (Email or Mobile Number)
+5. Click **Create Subscription**
+
+---
+
+### Step 4 – Confirm Subscription
+If you selected **Email**, AWS will send a confirmation link.  
+Open the email and click **Confirm Subscription**.
+
+---
+
+### Step 5 – Publish Test Message
+1. Open Topic  
+2. Click **Publish Message**
+3. Enter Message:
+
+---
+
+<img width="1914" height="1076" alt="image" src="https://github.com/user-attachments/assets/01d1083a-42ec-4aaa-8258-9eea0027efac" />
+
+---
+
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/77ec5160-8b79-442e-a582-c617c16aa7fa" />
+
+---
+
+## your are succesfully send sms 
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/24b0e73c-560e-4a01-85a9-9437fb247d99" />
+
+---
+
+
