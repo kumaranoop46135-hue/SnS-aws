@@ -110,4 +110,33 @@ Open the email and click **Confirm Subscription**.
 
 ---
 
+4. Click **Publish**
 
+Now the notification will be received on Email/SMS.
+
+---
+
+## Project Output
+- SNS Topic Created
+- Email Subscription Confirmed
+- Test Message Delivered Successfully
+
+---
+
+## Real World Use Cases
+- Server Alerts
+- Deployment Notifications
+- Monitoring Alerts
+- Application Error Notifications
+
+---
+
+## Author
+Anoop Kumar  
+DevOps & AWS Learner
+
+---
+
+<img width="330" height="737" alt="image" src="https://github.com/user-attachments/assets/aac1abaa-2df7-402a-9e00-2d4dfe06a677" />
+
+---
