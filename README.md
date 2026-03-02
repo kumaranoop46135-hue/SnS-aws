@@ -56,4 +56,14 @@ Login to your AWS account and open the SNS service.
 
 ---
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/70d74142-f838-48c4-a772-be9cc55ed394" />
+
+---
+
+# now we are create a topic
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b702a7dd-6009-4b19-960c-889e273a6cc8" />
+
+---
+
+
 
